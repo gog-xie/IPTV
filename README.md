@@ -16,8 +16,8 @@
   ![](https://github.com/gog-xie/IPTV/blob/main/pic/IGMP.png)
 - ### 2、路由器设置
   路由器可选用小米、华硕、OpenWrt等路由器，在主路由上实现IPTV内网融合，也可在旁路由上实现，通常旁路由以PVE、NAS等为载体，时有关机的可能，而主路由几乎24小时开机，故部署在主路由上为佳，本项目以华硕路由器为主路由为例。
-  在华硕路由器的高级设置→内部网络（LAN）→IPTV→UDP代理（Udpxy）设置一个端口号即可。需注意的是部分华硕路由器固件可能有小bug，“选择ISP设置挡”如果选择“无”，Udpxy不能启用，要选择为“手动设置”，VID不用设置。设置完后通过验证'http://192.168.50.1:5555/status'是否完成udpxy设置，如果出现UDPXY STATUS如图所示表示设置成功。
-  ![](https://github.com/gog-xie/IPTV/blob/main/pic/ASUS.png)
+  在华硕路由器的高级设置→内部网络（LAN）→IPTV→UDP代理（Udpxy）设置一个端口号即可。需注意的是部分华硕路由器固件可能有小bug，“选择ISP设置挡”如果选择“无”，Udpxy不能启用，要选择为“手动设置”，VID不用设置。设置完后通过验证 'http://192.168.50.1:5555/status' 是否完成udpxy设置，如果出现UDPXY STATUS如图所示表示设置成功。
+ <h4 align="center"> ![](https://github.com/gog-xie/IPTV/blob/main/pic/ASUS.png)</h4>
   ![](https://github.com/gog-xie/IPTV/blob/main/pic/udpxy.png)
 - ### 3、数据抓包
   采用一台双网口电脑，将两个网口桥接，一个网口接光猫ITV数据，一个网口接电信机顶盒，电脑安装Wireshark软件，并选择两个网口中的一个，开始抓包，开启机顶盒，并进入直播，换台、移时观看、点播，停止抓包。抓包数据http数据追踪流HTTP数据，保存数据上传到[IPTV数据解析工具](https://gyssi.link/iptv/888.html) 生成m3u文件，再将播放地址配合内网地址修改为 `http://内网地址:端口号/udp/电视台地址:电视台端口号`，如 `http://192.168.50.1:5555/udp/239.94.1.147:5140`，修改后再上传[匹配生成台标](https://epg.51zmt.top:8001),生成一个带有台标的M3U文件。
