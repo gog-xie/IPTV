@@ -12,7 +12,7 @@
 - ### 1、光猫设置
   通常建议光猫桥接，路由器拨号。
   光猫设置分为两种情况，比如华为光猫不用绑定网口均带有Internet和ITV业务数据，而中兴光猫需绑定Internet和ITV业务数据，如光猫Lan1需勾选上网和ITV业务数据，则Lan1带了两种业务数据。
-<p align="center"> <b></b>Internet设置</b></p>
+<p align="center"> <b>Internet设置</b></p>
 <div align="center"> <img src="https://github.com/gog-xie/IPTV/blob/main/pic/Internet.png" width="854" heiht="480"></div>
 
 <h3 align="center"> ITV设置</h3>
