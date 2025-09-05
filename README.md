@@ -15,20 +15,20 @@
 <p align="center"> <b>Internet设置</b></p>
 <div align="center"> <img src="https://github.com/gog-xie/IPTV/blob/main/pic/Internet.png" width="854" heiht="480"></div>
 
-<h3 align="center"> ITV设置</h3>
+<p align="center"> <b>ITV设置</b></p>
 <div align="center"> <img src="https://github.com/gog-xie/IPTV/blob/main/pic/ITV.png" width="854" heiht="480"></div>
 
-<h3 align="center"> IGMP设置</h3>
+<p align="center"> <b>IGMP设置</b></p>
 <div align="center"> <img src="https://github.com/gog-xie/IPTV/blob/main/pic/IGMP.png" width="854" heiht="480"></div>
 
 - ### 2、路由器设置
   路由器可选用小米、华硕、OpenWrt等路由器，在主路由上实现IPTV内网融合，也可在旁路由上实现，有的旁路由以PVE、NAS等为载体，时有关机的情况，而主路由几乎24小时开机，故部署在主路由为佳，本项目以华硕路由器为主路由为例，其它路由器原理类似，不再赘述。
   在华硕路由器的高级设置→内部网络（LAN）→IPTV→UDP代理（Udpxy）设置一个端口号即可。需注意的是部分华硕路由器固件可能有小bug，若“选择ISP设置挡”选择“无”，Udpxy无法启用，应选择为“手动设置”，其它不用设置。设置完后通过 `http://192.168.50.1:5555/status` 进行验证，如果出现UDPXY STATUS页面表示设置成功。
 
-<h4 align="center"> 华硕路由器udpxy设置</h4>
+<p align="center"> <b>华硕路由器udpxy设置</b></p>
 <div align="center"> <img src="https://github.com/gog-xie/IPTV/blob/main/pic/ASUS.png" width="854" heiht="480"></div>
 
-<h3 align="center"> UDPXY STATUS</h3>
+<p align="center"> <b>UDPXY STATUS</b></p>
 <div align="center"> <img src="https://github.com/gog-xie/IPTV/blob/main/pic/udpxy.png" width="854" heiht="480"></div>
 
 - ### 3、数据抓包
