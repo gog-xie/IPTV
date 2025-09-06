@@ -54,27 +54,32 @@
 - ### 4、播放
   播放软件通常采用Kodi、PotPlayer等。电视端用Kodi比较适合，开机可直接进入直播电视播放。进入Kodi→插件→从库中安装→PVR客户端，安装IPTV Simple Client插件，会提示安装必要的依赖插件，安装完毕后进入插件设置，添加附加配置，名称随便填，位置填“远程路径（互联网地址）”，M3U播放列表URL填入你M3U节目列表地址，如果主路由IP地址也是192.168.50.1，可填入以下节目列表地址即可。
 
+***
+
 ## IPTV节目列表
-> ### [Github地址：](https://raw.githubusercontent.com/gog-xie/IPTV/refs/heads/main/MTU_Address/202509.m3u)
+> #### [Github地址：](https://raw.githubusercontent.com/gog-xie/IPTV/refs/heads/main/MTU_Address/202509.m3u)
 
 ```
 https://raw.githubusercontent.com/gog-xie/IPTV/refs/heads/main/MTU_Address/202509.m3u
 ```
 
-> ### [镜像地址1：](https://fastly.jsdelivr.net/gh/gog-xie/IPTV@main/MTU_Address/202509.m3u)
+> #### [镜像地址1：](https://fastly.jsdelivr.net/gh/gog-xie/IPTV@main/MTU_Address/202509.m3u)
 
 ```
 https://fastly.jsdelivr.net/gh/gog-xie/IPTV@main/MTU_Address/202509.m3u
 ```
 
-> ### [镜像地址2：](https://gh-proxy.com/https://raw.githubusercontent.com/gog-xie/IPTV/refs/heads/main/MTU_Address/202509.m3u)
+> #### [镜像地址2：](https://cdn.jsdelivr.net/gh/gog-xie/IPTV@main/MTU_Address/202509.m3u)
+
+```
+https://cdn.jsdelivr.net/gh/gog-xie/IPTV@main/MTU_Address/202509.m3u
+```
+
+
+> #### [镜像地址3：](https://gh-proxy.com/https://raw.githubusercontent.com/gog-xie/IPTV/refs/heads/main/MTU_Address/202509.m3u)
 
 ```
 https://gh-proxy.com/https://raw.githubusercontent.com/gog-xie/IPTV/refs/heads/main/MTU_Address/202509.m3u
 ```
 
-> ### [镜像地址3：](https://cdn.jsdelivr.net/gh/gog-xie/IPTV@main/MTU_Address/202509.m3u)
-
-```
-https://cdn.jsdelivr.net/gh/gog-xie/IPTV@main/MTU_Address/202509.m3u
-```
+***
