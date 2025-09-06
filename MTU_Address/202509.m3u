@@ -101,10 +101,6 @@ http://192.168.50.1:5555/udp/239.94.1.139:5140
 http://192.168.50.1:5555/udp/239.94.1.140:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="儿童",爱动漫专区
 http://192.168.50.1:5555/udp/239.94.1.141:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="儿童",金熊猫卡通高清专区
-http://192.168.50.1:5555/udp/239.94.1.8:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="儿童",熊猫少儿高清专区
-http://192.168.50.1:5555/udp/239.94.1.5:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="儿童",炫动卡通
 http://192.168.50.1:5555/udp/239.94.1.9:5140
 #EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="儿童",嘉佳卡通
@@ -149,8 +145,6 @@ http://192.168.50.1:5555/udp/239.94.1.144:5140
 http://192.168.50.1:5555/udp/239.94.1.145:5140
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN英语
 http://192.168.50.1:5555/udp/239.94.0.40:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",精彩导视
-http://192.168.50.1:5555/udp/239.94.1.64:5140
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视高清
 http://192.168.50.1:5555/udp/239.94.0.60:5140
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视高清
@@ -185,6 +179,10 @@ http://192.168.50.1:5555/udp/239.94.0.73:5140
 http://192.168.50.1:5555/udp/239.94.0.74:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",SCTV-7高清
 http://192.168.50.1:5555/udp/239.94.0.75:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",金熊猫卡通高清专区
+http://192.168.50.1:5555/udp/239.94.1.8:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",熊猫少儿高清专区
+http://192.168.50.1:5555/udp/239.94.1.5:5140
 #EXTINF:-1 tvg-id="2062" tvg-name="SCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv8.png" group-title="四川",SCTV-科教高清
 http://192.168.50.1:5555/udp/239.94.0.76:5140
 #EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="地方",四川乡村高清
@@ -321,10 +319,6 @@ http://192.168.50.1:5555/udp/239.94.1.52:5140
 http://192.168.50.1:5555/udp/239.94.1.53:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综艺",地理高清专区
 http://192.168.50.1:5555/udp/239.94.1.54:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",导视专区
-http://192.168.50.1:5555/udp/239.94.1.55:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",收视指南专区
-http://192.168.50.1:5555/udp/239.94.1.56:5140
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN西班牙语
 http://192.168.50.1:5555/udp/239.94.1.65:5140
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN法语
@@ -359,3 +353,9 @@ http://192.168.50.1:5555/udp/239.94.1.167:5140
 http://192.168.50.1:5555/udp/239.94.1.168:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",精彩推荐专区
 http://192.168.50.1:5555/udp/239.94.2.10:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",精彩导视
+http://192.168.50.1:5555/udp/239.94.1.64:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",导视专区
+http://192.168.50.1:5555/udp/239.94.1.55:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",收视指南专区
+http://192.168.50.1:5555/udp/239.94.1.56:5140
