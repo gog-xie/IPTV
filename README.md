@@ -72,3 +72,9 @@ https://fastly.jsdelivr.net/gh/gog-xie/IPTV@main/MTU_Address/202509.m3u
 ```
 https://gh-proxy.com/https://raw.githubusercontent.com/gog-xie/IPTV/refs/heads/main/MTU_Address/202509.m3u
 ```
+
+> ### [镜像地址3：](https://cdn.jsdelivr.net/gh/gog-xie/IPTV@main/MTU_Address/202509.m3u)
+
+```
+https://fastly.jsdelivr.net/gh/gog-xie/IPTV@main/MTU_Address/202509.m3u
+```
