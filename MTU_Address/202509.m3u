@@ -47,6 +47,14 @@ http://192.168.50.1:5555/udp/239.94.0.113:5140
 http://192.168.50.1:5555/udp/239.94.0.114:5140
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视4K
 http://192.168.50.1:5555/udp/239.94.0.112:5140
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰卫视中文台
+http://bxtv.3a.ink/api.php?id=fhzw
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰卫视资讯台
+http://bxtv.3a.ink/api.php?id=fhzx
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",凤凰卫视HK台
+http://bxtv.3a.ink/api.php?id=fhhk
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",NOW新闻
+http://bxtv.3a.ink/api.php?id=now
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",爱上4K专区
 http://192.168.50.1:5555/udp/239.94.0.21:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="儿童",亲子趣学4k专区
@@ -57,14 +65,6 @@ http://192.168.50.1:5555/udp/239.94.1.162:5140
 http://192.168.50.1:5555/udp/239.94.1.150:5140
 #EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="地方",4K视界专区
 http://192.168.50.1:5555/udp/239.94.1.60:5140
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰卫视中文台
-http://bxtv.3a.ink/api.php?id=fhzw
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰卫视资讯台
-http://bxtv.3a.ink/api.php?id=fhzx
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",凤凰卫视HK台
-http://bxtv.3a.ink/api.php?id=fhhk
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",NOW新闻
-http://bxtv.3a.ink/api.php?id=now
 #EXTINF:-1 tvg-id="7152" tvg-name="History" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png" group-title="港澳台",爱历史专区
 http://192.168.50.1:5555/udp/239.94.1.135:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",求索频道高清
