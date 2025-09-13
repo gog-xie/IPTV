@@ -359,11 +359,3 @@ http://192.168.50.1:5555/udp/239.94.1.64:5140
 http://192.168.50.1:5555/udp/239.94.1.55:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",收视指南专区
 http://192.168.50.1:5555/udp/239.94.1.56:5140
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰卫视中文台
-http://bxtv.3a.ink/api.php?id=fhzw
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰卫视资讯台
-http://bxtv.3a.ink/api.php?id=fhzx
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",凤凰卫视HK台
-http://bxtv.3a.ink/api.php?id=fhhk
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",NOW新闻
-http://bxtv.3a.ink/api.php?id=now
