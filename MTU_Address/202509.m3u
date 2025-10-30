@@ -61,6 +61,10 @@ http://192.168.50.1:5555/udp/239.94.1.162:5140
 http://192.168.50.1:5555/udp/239.94.1.150:5140
 #EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="地方",4K视界专区
 http://192.168.50.1:5555/udp/239.94.1.60:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",法治天地
+http://192.168.50.1:5555/udp/239.94.1.166:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",中国天气
+http://192.168.50.1:5555/udp/239.94.1.167:5140
 #EXTINF:-1 tvg-id="7152" tvg-name="History" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png" group-title="港澳台",爱历史专区
 http://192.168.50.1:5555/udp/239.94.1.135:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",求索频道高清
@@ -127,10 +131,6 @@ http://192.168.50.1:5555/udp/239.94.1.171:5140
 http://192.168.50.1:5555/udp/239.94.1.155:5140
 #EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="上海",生活时尚
 http://192.168.50.1:5555/udp/239.94.1.146:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",法治天地
-http://192.168.50.1:5555/udp/239.94.1.166:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",中国天气
-http://192.168.50.1:5555/udp/239.94.1.167:5140
 #EXTINF:-1 tvg-id="2065" tvg-name="CDTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv2.png" group-title="四川",CDTV-2高清
 http://192.168.50.1:5555/udp/239.94.0.155:5140
 #EXTINF:-1 tvg-id="2066" tvg-name="CDTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv3.png" group-title="四川",CDTV-3高清
