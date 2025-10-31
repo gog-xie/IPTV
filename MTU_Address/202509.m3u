@@ -401,5 +401,3 @@ http://192.168.50.1:5555/udp/239.94.1.56:5140
 http://192.168.50.1:5555/udp/239.94.1.68:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",家政频道高清
 http://192.168.50.1:5555/udp/239.93.42.48:5140
-#EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="地方",嘉佳卡通
-http://192.168.50.1:5555/udp/239.94.1.10:5140
