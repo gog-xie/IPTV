@@ -35,43 +35,43 @@ http://192.168.50.1:5555/udp/239.93.60.54:5140
 http://192.168.50.1:5555/udp/239.94.0.39:5140
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV-5+高清
 http://192.168.50.1:5555/udp/239.94.0.23:5140
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="地方",CCTV-4K
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K",CCTV-4K
 http://192.168.50.1:5555/udp/239.94.0.20:5140
-#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="上海",欢笑剧场4K
+#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="4K",欢笑剧场4K
 http://192.168.50.1:5555/udp/239.94.1.176:5140
-#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视4K
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="4K",北京卫视4K
 http://192.168.50.1:5555/udp/239.94.0.111:5140
-#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视4K
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="4K",深圳卫视4K
 http://192.168.50.1:5555/udp/239.94.0.113:5140
-#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视4K
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="4K",广东卫视4K
 http://192.168.50.1:5555/udp/239.94.0.114:5140
-#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视4K
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="4K",北京卫视4K
 http://192.168.50.1:5555/udp/239.94.0.112:5140
-#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视4K
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="4K",山东卫视4K
 http://192.168.50.1:5555/udp/239.94.0.120:5140
-#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视4K
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="4K",四川卫视4K
 http://192.168.50.1:5555/udp/239.94.0.115:5140
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="央视",湖南卫视4K
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="4K",湖南卫视4K
 http://192.168.50.1:5555/udp/239.94.0.116:5140
-#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视4K
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="4K",江苏卫视4K
 http://192.168.50.1:5555/udp/239.94.0.117:5140
-#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视4K
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="4K",浙江卫视4K
 http://192.168.50.1:5555/udp/239.94.0.118:5140
-#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视4K
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="4K",东方卫视4K
 http://192.168.50.1:5555/udp/239.94.0.119:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",爱上4K专区
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",爱上4K专区
 http://192.168.50.1:5555/udp/239.94.0.21:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",4K纪实专区
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",4K纪实专区
 http://192.168.50.1:5555/udp/239.94.1.69:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="儿童",4K少儿专区
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",4K少儿专区
 http://192.168.50.1:5555/udp/239.94.1.70:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="儿童",亲子趣学4k专区
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",亲子趣学4k专区
 http://192.168.50.1:5555/udp/239.94.1.156:5140
-#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="地方",4K乐享超清专区
+#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="4K",4K乐享超清专区
 http://192.168.50.1:5555/udp/239.94.1.162:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",绚影4K专区
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",绚影4K专区
 http://192.168.50.1:5555/udp/239.94.1.150:5140
-#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="地方",4K视界专区
+#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="4K",4K视界专区
 http://192.168.50.1:5555/udp/239.94.1.60:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",求索频道高清
 http://192.168.50.1:5555/udp/239.94.1.142:5140
