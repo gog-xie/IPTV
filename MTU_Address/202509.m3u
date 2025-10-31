@@ -61,8 +61,6 @@ http://192.168.50.1:5555/udp/239.94.1.162:5140
 http://192.168.50.1:5555/udp/239.94.1.150:5140
 #EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="地方",4K视界专区
 http://192.168.50.1:5555/udp/239.94.1.60:5140
-#EXTINF:-1 tvg-id="7152" tvg-name="History" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png" group-title="港澳台",爱历史专区
-http://192.168.50.1:5555/udp/239.94.1.135:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",求索频道高清
 http://192.168.50.1:5555/udp/239.94.1.142:5140
 #EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="上海",生活时尚
@@ -169,6 +167,8 @@ http://192.168.50.1:5555/udp/239.94.1.143:5140
 http://192.168.50.1:5555/udp/239.94.1.144:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="生活",爱宠宠物专区
 http://192.168.50.1:5555/udp/239.94.1.145:5140
+#EXTINF:-1 tvg-id="7152" tvg-name="History" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png" group-title="港澳台",爱历史专区
+http://192.168.50.1:5555/udp/239.94.1.135:5140
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN英语
 http://192.168.50.1:5555/udp/239.94.0.40:5140
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视高清
